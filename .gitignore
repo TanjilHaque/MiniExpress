@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS-related files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build output
+dist/
+build/
+
+# Optional: cache
+.cache/
+.nyc_output/
+coverage/
+
+# Optional: ignore test reports
+test-output/
+
+# Optional: ignore debug config files
+*.tgz
